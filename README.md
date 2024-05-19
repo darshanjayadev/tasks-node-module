@@ -8,3 +8,4 @@ Learning to publish package to npm, don't bother downloading it since it's usele
 1. Figure out a way to not export `test` folder while publishing to `npm`
 2. Re-architect the module into a class?
 3. Update `test`
+4. Setup `GitHub` workflow to publish `npm` package
