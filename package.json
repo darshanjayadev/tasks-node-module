@@ -1,0 +1,15 @@
+{
+  "name": "@darshanjayadev/tasks",
+  "version": "1.0.0",
+  "description": "Learning to publish package to npm, don't bother downloading since it's useless.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshan Jayadev",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^5.0.7"
+  }
+}
